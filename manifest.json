@@ -1,0 +1,25 @@
+{
+  "name": "EMBARCA CARGAS",
+  "short_name": "Embarca",
+  "description": "Plataforma digital que re\u00fane os melhores agenciadores de cargas da cidade em um s\u00f3 lugar.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d47a1",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
