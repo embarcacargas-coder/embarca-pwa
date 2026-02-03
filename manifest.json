@@ -1,9 +1,9 @@
 {
   "name": "EMBARCA CARGAS",
   "short_name": "EMBARCA CARGAS",
-  "description": "Plataforma digital que re\u00fane os melhores agenciadores de cargas da cidade em um s\u00f3 lugar.",
-  "start_url": "/",
-  "scope": "/",
+  "description": "Plataforma digital que reúne os melhores agenciadores de cargas da cidade em um só lugar.",
+  "start_url": "/embarca/",
+  "scope": "/embarca/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#0d47a1",
@@ -19,7 +19,8 @@
     {
       "src": "icons/icon-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
