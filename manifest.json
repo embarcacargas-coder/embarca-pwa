@@ -1,13 +1,12 @@
 {
   "name": "EMBARCA CARGAS",
-  "short_name": "Embarca Cargas",
+  "short_name": "Embarca",
   "description": "Plataforma digital que reúne os melhores agentes de cargas",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#0d47a1",
-  "orientation": "portrait",
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
